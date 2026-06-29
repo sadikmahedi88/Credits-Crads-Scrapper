@@ -1,10 +1,4 @@
-ممتاز! سأكتب لك ملف README.md احترافي وجذاب مع كلمات متحركة (Animated) باستخدام SVG animations أو GIFs أو Badges متحركة.
 
----
-
-README.md النهائي:
-
-```markdown
 <p align="center">
   <img src="attached_assets/Murphy.jpg" alt="Murphy Logo" width="200"/>
 </p>
